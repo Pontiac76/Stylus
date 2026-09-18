@@ -1,0 +1,11 @@
+:root {
+  --bg-color: #480000;
+}
+
+body, html, .frame, body.status, body.extinfo, body.cmd, body.tac, body.parent, #mainbody {
+  background-color: var(--bg-color) !important;
+}
+
+#leftnav {
+  background-color: var(--bg-color) !important;
+}
